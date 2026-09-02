@@ -1,5 +1,5 @@
 ﻿
-namespace Practice1
+namespace _26031022_Leejoohan_SelfIntroduction
 {
     internal class Program
     {
